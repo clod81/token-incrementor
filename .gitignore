@@ -1,3 +1,6 @@
 .idea
 IncrementMePlease.iml
 out
+.gradle/*
+build/*
+lib/*
